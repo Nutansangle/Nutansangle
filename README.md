@@ -11,5 +11,5 @@ Skills:
 - Off-page SEO
 - content creation
 
-Portfolio: https://your-portfolio-link
-LinkedIn: https://linkedin.com/in/your-link
+Portfolio: 
+LinkedIn: 
