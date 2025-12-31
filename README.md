@@ -11,5 +11,5 @@ Skills:
 - Off-page SEO
 - content creation
 
-Portfolio: 
+Portfolio: https://nutansangle.github.io/portfolio/
 LinkedIn: 
