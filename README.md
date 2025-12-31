@@ -12,4 +12,4 @@ Skills:
 - content creation
 
 Portfolio: https://nutansangle.github.io/portfolio/
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/nutan-sangle
