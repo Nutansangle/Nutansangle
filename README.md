@@ -1,6 +1,6 @@
 Hi, I'm Nutan
 
-Front-End Developer with a background in Computer Engineering.
+Web Designer with a background in Computer Engineering.
 I build responsive and SEO-friendly websites using HTML, CSS, and JavaScript.
 
 Skills:
