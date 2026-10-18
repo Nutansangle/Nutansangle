@@ -10,6 +10,10 @@ Skills:
 - On-Page SEO
 - Off-page SEO
 - content creation
+- WordPress Development
+- Elementor & WooCommerce
+- Client Projects
+- HTML/CSS Projects
 
 Portfolio: https://nutansangle.github.io/portfolio/
 LinkedIn: https://www.linkedin.com/in/nutan-sangle
