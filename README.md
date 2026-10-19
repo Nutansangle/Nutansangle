@@ -1,6 +1,6 @@
 Hi, I'm Nutan
 
-Web Designer with a background in Computer Engineering.
+Wordpress Web Designer with a background in Computer Engineering.
 I build responsive and SEO-friendly websites using HTML, CSS, and JavaScript.
 
 Skills:
